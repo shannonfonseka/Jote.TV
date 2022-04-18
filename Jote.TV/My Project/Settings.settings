@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="settingsWelcome" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="settingsPlaystatus" Type="System.String" Scope="User">
+      <Value Profile="(Default)">stop</Value>
+    </Setting>
+    <Setting Name="settingsContentType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Jote TV</Value>
+    </Setting>
+    <Setting Name="settingsCrop" Type="System.String" Scope="User">
+      <Value Profile="(Default)">16:9</Value>
+    </Setting>
+    <Setting Name="settingsAspectRatio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4:3</Value>
+    </Setting>
+    <Setting Name="settingsRecordQuality" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Standard Definition</Value>
+    </Setting>
+    <Setting Name="settingsUpdateCheck" Type="System.String" Scope="User">
+      <Value Profile="(Default)">On startup</Value>
+    </Setting>
+    <Setting Name="settingsOpacity" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

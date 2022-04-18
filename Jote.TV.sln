@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Jote.TV", "Jote.TV\Jote.TV.vbproj", "{D413C6C5-4F15-46F9-B062-9E2B52FE59D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6A4EFFDA-796E-4817-9AC5-CC314D07295D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D413C6C5-4F15-46F9-B062-9E2B52FE59D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D413C6C5-4F15-46F9-B062-9E2B52FE59D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D413C6C5-4F15-46F9-B062-9E2B52FE59D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D413C6C5-4F15-46F9-B062-9E2B52FE59D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6811CC0B-516F-49E1-B2CC-A8CCBB537287}
+	EndGlobalSection
+EndGlobal
